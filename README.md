@@ -27,7 +27,7 @@
 
 **Table 3: Comparison of adjacency matrix normalization strategies.**
 
-|Task|Row|||Sym.|||Raw counts (ours)|||
+|Task|Row Normalization|||Symmetric Normalization|||Raw counts (ours)|||
 |-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 ||ACC|F1†|MRR|ACC|F1†|MRR|ACC|F1†|MRR|
 |Street Function Prediction (Wuhan)|44.83|39.29|61.79|48.25|39.48|64.54|**51.42**|**48.34**|**66.94**|
