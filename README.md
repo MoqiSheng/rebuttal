@@ -112,4 +112,4 @@
 
 **Figure 3: Per-class F1 scores for economic activity prediction (Wuhan).**
 
-<img src="figures/wuhan_poi_perclass_f1.png" width="600" alt="Per-class F1 scores for economic activity prediction (Wuhan)">
+<img src="figures/wuhan_poi_perclass_f1.png" width="480" alt="Per-class F1 scores for economic activity prediction (Wuhan)">
