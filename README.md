@@ -101,15 +101,15 @@
 
 | | |
 |:---:|:---:|
-| ![Street Function Prediction (Wuhan)](figures/labelrate_wuhan_function.png) | ![Economic Activity Prediction (Wuhan)](figures/labelrate_wuhan_poi.png) |
+| <img src="figures/labelrate_wuhan_function.png" width="350" alt="Street Function Prediction (Wuhan)"> | <img src="figures/labelrate_wuhan_poi.png" width="350" alt="Economic Activity Prediction (Wuhan)"> |
 | (a) Street Function Prediction (Wuhan) | (b) Economic Activity Prediction (Wuhan) |
-| ![House Price Prediction (Xi'an)](figures/labelrate_xian_house.png) | ![Economic Activity Prediction (Xi'an)](figures/labelrate_xian_poi.png) |
+| <img src="figures/labelrate_xian_house.png" width="350" alt="House Price Prediction (Xi'an)"> | <img src="figures/labelrate_xian_poi.png" width="350" alt="Economic Activity Prediction (Xi'an)"> |
 | (c) House Price Prediction (Xi'an) | (d) Economic Activity Prediction (Xi'an) |
 
 **Figure 2: Per-class F1 scores for street function prediction (Wuhan).**
 
-![Per-class F1 scores for street function prediction (Wuhan)](figures/wuhan_function_perclass_f1.png)
+<img src="figures/wuhan_function_perclass_f1.png" width="600" alt="Per-class F1 scores for street function prediction (Wuhan)">
 
 **Figure 3: Per-class F1 scores for economic activity prediction (Wuhan).**
 
-![Per-class F1 scores for economic activity prediction (Wuhan)](figures/wuhan_poi_perclass_f1.png)
+<img src="figures/wuhan_poi_perclass_f1.png" width="600" alt="Per-class F1 scores for economic activity prediction (Wuhan)">
