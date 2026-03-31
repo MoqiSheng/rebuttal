@@ -1,4 +1,4 @@
-### W1 & Q1:
+> ## W1 & Q1:
 
 **Table 1: Per-class label distribution for street function prediction (Wuhan).**
 
@@ -23,7 +23,7 @@
 | Economic Activity (Xi'an) | 25.4% | 25.7% | 25.0% | 23.8% |
 | House Price (Xi'an) | 25.0% | 25.3% | 25.0% | 24.7% |
 
-### W4:
+> ## W4:
 
 **Table 3: Comparison of adjacency matrix normalization strategies.**
 
@@ -37,7 +37,7 @@
 
 † Weighted-F1 for Street Function; Macro-F1 for Economic Activity and House Price.
 
-### W6 & Q3:
+> ## W6 & Q3:
 
 **Table 4: Prompt sensitivity and effect of segmentation statistics (Wuhan).**
 
@@ -57,7 +57,7 @@
 |No segmentation stats|50.69|50.55|70.61|44.34|43.81|66.44|
 |**MetaStreet**|**53.26**|**52.64**|72.19|45.77|**45.49**|**67.01**|
 
-### W7:
+> ## W7:
 
 **Table 6: Effect of the number of context streets *k* (Wuhan).**
 
@@ -79,7 +79,7 @@
 |7|52.03|51.98|71.70|44.62|44.31|66.82|
 |9|51.47|51.23|71.16|44.18|43.76|66.37|
 
-### W8:
+> ## W8:
 
 **Table 8: Standard deviations over 5 runs for MetaStreet and USPM.**
 
@@ -96,7 +96,7 @@
 
 † Weighted-F1 for Street Function Prediction; Macro-F1 for Economic Activity Prediction and House Price Prediction.
 
-### W10:
+>  ## W10:
 
 **Figure 1: Performance under varying label sparsity (training size from 300 to 100).**
 
